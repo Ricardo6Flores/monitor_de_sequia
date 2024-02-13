@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "nuevo",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 2951685.281199999153614, 494524.74720000103116 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 2551659.631671210285276, 743705.577588181942701 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 2418357.143311817664653, 1257092.605859095230699 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 2769391.551479696296155, 1074531.983125453814864 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Id": 0, "Type": "S" }, "geometry": { "type": "Point", "coordinates": [ 1546715.769000001251698, 1434057.581900000572205 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Id": 0, "Type": "S" }, "geometry": { "type": "Point", "coordinates": [ 2759678.163433937355876, 1451259.499699998646975 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 1953037.130716971121728, 1582119.796813635155559 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 2463382.633599996566772, 1815799.98200000077486 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "Id": 0, "Type": "SL" }, "geometry": { "type": "Point", "coordinates": [ 1698836.765100002288818, 1996120.763099998235703 ] } }
+]
+}
